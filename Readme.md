@@ -73,3 +73,17 @@ This file generates and saves images during the model training process, includin
 This file loads the trained model, predicts on input data, and calculates and visualizes the IoU scores.
 
 For any questions or issues, please contact me at lishun1693@163.com.
+
+## Citation
+lf you find this repo helpful, please cite the following paper:
+
+```
+@article{li2024topology,
+  title={Topology optimization based on improved DoubleU-Net using four boundary condition datasets},
+  author={Li, Shun and Zeng, PeiJian and Lin, Nankai and Lu, Maohua and Lin, Jianghao and Yang, Aimin},
+  journal={Engineering Optimization},
+  pages={1--19},
+  year={2024},
+  publisher={Taylor \& Francis}
+}
+```
